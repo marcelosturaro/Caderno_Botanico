@@ -27,3 +27,8 @@ Substitua os arquivos no GitHub e, em `sw.js`, troque `V='v1'` por `V='v2'` (e a
 ## Cuidados
 - Os registros ficam só no aparelho. Exporte o CSV com frequência.
 - Se limpar os dados do navegador, os registros são apagados.
+
+## Se o botão de instalar não aparecer
+- Use o Chrome (Android) ou o Safari (iPhone), abrindo o endereço `https://marcelosturaro.github.io/Caderno_Botanico/` direto, e não por dentro de WhatsApp, Instagram ou e-mail.
+- Abra o app, vá em **Sobre este caderno** e leia a mensagem de instalação no fim do texto.
+- Se você já adicionou uma versão antiga à tela inicial, apague esse atalho e abra o endereço de novo.
